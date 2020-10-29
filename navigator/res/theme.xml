@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="11" useXmlUI="false">
+    <image name="icon.png" type="multi"  />
+    <image name="logo.png" type="multi"  />
+    <theme name="Theme">
+        <val key="@includeNativeBool" value="true" />
+        <val key="Form.bgColor" value="374956" />
+        <val key="Form.derive" value="Form" />
+        <val key="Form.transparency" value="255" />
+        <val key="TextField.bgColor" value="0" />
+        <border key="TextField.border" type="underline"  millimeters="true" thickness="0.2" color="15460313" />
+        <val key="TextField.derive" value="TextField" />
+        <val key="TextField.fgColor" value="ebe7d9" />
+        <val key="TextField.marUnit" value="2,2,2,2" />
+        <val key="TextField.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="TextField.sel#bgColor" value="0" />
+        <border key="TextField.sel#border" type="underline"  millimeters="true" thickness="0.2" color="15460313" />
+        <val key="TextField.sel#derive" value="TextField" />
+        <val key="TextField.sel#fgColor" value="ebe7d9" />
+        <val key="TextField.sel#marUnit" value="2,2,2,2" />
+        <val key="TextField.sel#margin" value="0.0,0.0,0.0,0.0" />
+        <val key="TextField.sel#transparency" value="0" />
+        <val key="TextField.transparency" value="0" />
+        <val key="TitleCommand.derive" value="TitleCommand" />
+        <val key="TitleCommand.fgColor" value="EBE7D9" />
+        <val key="TitleCommand.transparency" value="0" />
+        <val key="ToolbarBlue.align" value="4" />
+        <val key="ToolbarBlue.bgColor" value="f222d" />
+        <val key="ToolbarBlue.fgColor" value="ffffff" />
+        <val key="ToolbarBlue.padUnit" value="2,2,2,2" />
+        <val key="ToolbarBlue.padding" value="4.0,2.0,0.0,0.0" />
+        <val key="ToolbarBlue.transparency" value="255" />
+        <val key="derive" value="TitleCommand" />
+        <val key="fgColor" value="EBE7D9" />
+    </theme>
+</resource>
